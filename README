@@ -1,0 +1,26 @@
+PlayDate! Website 
+
+PlayDate is a 3-page website designed to help moms connect, plan play dates and discover new activites for their toddlers. 
+
+Pages
+-Home Page
+-Activities Page
+-About Us Page
+
+Features
+-Nav bar linking to all pages
+-Login & Sign-up forms 
+-Dropdown menu for user interests 
+-Activity cards with images
+-Event table showing activities
+-GIF for visual engagment 
+-Responsive layout using flexbox
+-CSS styling with animations
+
+
+Technologies Used 
+-HTML
+-CSS
+
+Author
+Michia-Gaye Padilla
